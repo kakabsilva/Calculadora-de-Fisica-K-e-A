@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\bin\Debug\net10.0-windows\Kobayashi.exe
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\bin\Debug\net10.0-windows\Kobayashi.deps.json
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\bin\Debug\net10.0-windows\Kobayashi.runtimeconfig.json
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\bin\Debug\net10.0-windows\Kobayashi.dll
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\bin\Debug\net10.0-windows\Kobayashi.pdb
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.Form1.resources
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.dll
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\refint\Kobayashi.dll
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.pdb
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\ref\Kobayashi.dll
+C:\Users\Aluno\source\repos\Kobayashi\Kobayashi\obj\Debug\net10.0-windows\Kobayashi.csproj.Up2Date
